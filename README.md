@@ -1,6 +1,6 @@
 # Python Flask Practice App
 
-This is a simple dockerized Python Flask application created for practice and learning purposes. This has been updated to include port mapping to 8080, 
+This is a simple dockerized Python Flask application created for practice and learning purposes. This has been updated to include port mapping and other requirements for gcp. 
 
 # Features:
 
