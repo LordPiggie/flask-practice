@@ -5,7 +5,7 @@ This is a simple dockerized Python Flask application created for practice and le
 # Features:
 
 -  This app includes a status message that reads "Ok" when the url endpoint /health recieves a GET request.
--  interfacing with googleshell through the OS module. 
+-  Interfacing with googleshell through the OS module. 
 -  Basic networking implementation and exposed ports.
 
  # Packages
@@ -20,4 +20,4 @@ These are updated verions of the packages for implementation on Google Cloud Run
 
 - Requests 2.31.0 This package also handles http requests.
 
-- debugpy a devOps tool for debugging
+- debugpy a devOps tool for debugging.
