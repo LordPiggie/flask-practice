@@ -13,6 +13,6 @@ There are newer versions of these packages
 
 - Flask 2.0.3 Framework to define the web application.
 
-- Werkzeug 2.0.3 WSGI to process HTTP requests.
+- Werkzeug 2.0.3 WSGI to process HTTP requests, this is a dependancy for Flask.
 
 - itsdangerous 2.0.1 A tool to encrypt the applications data, this is a dependancy for Flask.
