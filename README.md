@@ -4,7 +4,7 @@ This is a simple dockerized Python Flask application created for practice and le
 
 # Features:
 
--  This app includes a status message that reads "Ok" when the url enpoint /health recieves a GET request.
+-  This app includes a status message that reads "Ok" when the url endpoint /health recieves a GET request.
 -  Basic networking implementation and exposed ports.
 
  # Packages
