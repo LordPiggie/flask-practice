@@ -1,6 +1,6 @@
 # Python Flask Practice App
 
-This is a simple Python Flask application created for practice and learning purposes. The app is designed to run exclusively on a local machine and is not intended for deployment in a production environment.
+This is a simple dockerized Python Flask application created for practice and learning purposes. The app is designed to run exclusively on a local machine and is not intended for deployment in a production environment.
 
 # Features:
 
