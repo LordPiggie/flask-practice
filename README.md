@@ -14,7 +14,7 @@ These are updated verions of the packages for implementation on Google Cloud Run
 
 - Flask 2.3.3 Framework to define the web application.
 
-- Werkzeug 2.3.7 WSGI to process HTTP requests.
+- Werkzeug 2.3.7 WSGI to process HTTP requests. (With requests this may not be required?)
 
 - itsdangerous 2.1.2 A tool to encrypt the applications data, this is a dependancy for Flask.
 
