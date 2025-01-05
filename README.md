@@ -5,17 +5,14 @@ This is a simple Python Flask application created for practice and learning purp
 # Features:
 
 -  This app includes a status message that reads "Ok" when the url enpoint /health recieves a GET request.
--  Basic networking implementation and exposed ports
+-  Basic networking implementation and exposed ports.
 
  # Packages
 
 There are newer versions of these packages
 
-- Flask 2.0.3
-Framework to define the web application
+- Flask 2.0.3 Framework to define the web application.
 
-- Werkzeug 2.0.3
-WSGI to process HTTP requests
+- Werkzeug 2.0.3 WSGI to process HTTP requests.
 
-- itsdangerous 2.0.1
-A tool to encrypt the applications data, this is a dependancy for Flask.
+- itsdangerous 2.0.1 A tool to encrypt the applications data, this is a dependancy for Flask.
